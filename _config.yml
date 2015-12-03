@@ -1,7 +1,7 @@
 name: joshbaltzell
 favicon: null
-layout_spectrum: 0.2828755059745163
-typography_spectrum: 0.09820256871171296
+layout_spectrum: 0.65547
+typography_spectrum: 0.79441
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
   brandStrength: 0.31037113978527486
-  lightness: 0.3045365533325821
-  saturation: 0.8529911604709923
-  rhythmicContrast: 0.6170837157405913
+  lightness: 0.4375
+  saturation: 0.9375
+  rhythmicContrast: 0.5
 purpose: []
